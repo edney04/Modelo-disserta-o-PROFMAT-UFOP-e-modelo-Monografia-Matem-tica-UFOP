@@ -7,4 +7,5 @@ Os modelos aqui são adaptações realizada a partir do modelo de Lauro César A
 5) Por incompatibilidades, remoção de tudo relacionado a Quadros.
 
 Download do Modelo para Dissertação PROFMAT-UFOP: http://professor.ufop.br/sites/default/files/edney/files/modelo_profmat.zip
+
 Download do Modelo para Monografia Matemática-UFOP: http://professor.ufop.br/sites/default/files/edney/files/modelo_monografia.zip
